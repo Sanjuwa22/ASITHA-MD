@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=eyJ2EBxC#j_Y2RLUZ6_8JstvpueCBSgJTaaeTjkSpCCOlgegZyQ4' : process.env.SESSION_ID,
+SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=S2ZUAL6L#Tg2zRnBcFxMga3--_jKY_V4E7qHHAF0C4Lc_MRwDKzU' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 SUDO: process.env.SUDO === undefined ? '9473737373,9363636367' : process.env.SUDO,
@@ -28,9 +28,9 @@ READ_CMD: process.env.READ_CMD === undefined ? "true" : process.env.READ_CMD,
 RECORDING: process.env.RECORDING === undefined ? "true" : process.env.RECORDING,
 AI_CHAT: process.env.AI_CHAT === undefined ? "false" : process.env.AI_CHAT,
 AUTO_REACT: process.env.AUTO_REACT === undefined ? "false" : process.env.AUTO_REACT,
-NEWS_SEND_JID: process.env.NEWS_SEND_JID === undefined ? "120363397555117857@g.us" : process.env.NEWS_SEND_JID,
+NEWS_SEND_JID: process.env.NEWS_SEND_JID === undefined ? "120363381363104964@g.us" : process.env.NEWS_SEND_JID,
 AUTO_NEWS_SENDER: process.env.AUTO_NEWS_SENDER === undefined ? "true" : process.env.AUTO_NEWS_SENDER,
-TIKTOK_SEND_JID: process.env.TIKTOK_SEND_JID === undefined ? "120363380711095228@g.us" : process.env.TIKTOK_SEND_JID,
+TIKTOK_SEND_JID: process.env.TIKTOK_SEND_JID === undefined ? "120363381363104964@g.us" : process.env.TIKTOK_SEND_JID,
 AUTO_TIKTOK_SENDER: process.env.AUTO_TIKTOK_SENDER === undefined ? "true" : process.env.AUTO_TIKTOK_SENDER,
 SEEDER_GMAIL: process.env.SEEDER_GMAIL === undefined ? "" : process.env.SEEDER_GMAIL,
 SEEDER_PASSWORD: process.env.SEEDER_PASSWORD === undefined ? "" : process.env.SEEDER_PASSWORD,
